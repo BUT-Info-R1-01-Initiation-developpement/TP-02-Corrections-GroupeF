@@ -1,11 +1,11 @@
 # TP-02 Types, expressions conditionnelles
 
-### NOM : DOE
-### Prénom : John
+### NOM : SILVESTRE
+### Prénom : Franck
 ### TP group :
-- [x] A
+- [ ] A
 - [ ] B
 - [ ] C
 - [ ] D
 - [ ] E
-- [ ] F
+- [x] F
